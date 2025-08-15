@@ -1,0 +1,16 @@
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated data files
+*.xlsx
+*.csv
+*.png
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
